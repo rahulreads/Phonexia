@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1508247751 source:c:\users\rramachandran\phonexia\src\csvreader.cpp
+	"csvReader.h"
+
+1508247764 c:\users\rramachandran\phonexia\include\csvreader.h
+	<iostream>
+	<fstream>
+
+1508845188 source:c:\users\rramachandran\phonexia\src\main.cpp
+	<iostream>
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<unistd.h>
+	"csvReader.h"
+	"myBill.h"
+	"myPlan.h"
+	"myUsage.h"
+
+1508070249 source:c:\users\rramachandran\phonexia\src\mybill.cpp
+	"myBill.h"
+
+1508070248 c:\users\rramachandran\phonexia\include\mybill.h
+
+1508241085 source:c:\users\rramachandran\phonexia\src\myplan.cpp
+	"myPlan.h"
+	<algorithm>
+
+1508240478 c:\users\rramachandran\phonexia\include\myplan.h
+	"myPlanData.h"
+
+1508846295 source:c:\users\rramachandran\phonexia\src\myusage.cpp
+	"myUsage.h"
+	<algorithm>
+	<iostream>
+	<fstream>
+
+1508845204 c:\users\rramachandran\phonexia\include\myusage.h
+	<algorithm>
+	"myUsageData.h"
+
+1508231082 c:\users\rramachandran\phonexia\include\myplandata.h
+	<map>
+	<vector>
+
+1508832258 c:\users\rramachandran\phonexia\include\myusagedata.h
+	<map>
+
